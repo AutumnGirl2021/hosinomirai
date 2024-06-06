@@ -369,13 +369,13 @@ section {
 	@media (orientation: portrait) {
 
 	#section1::before {
-		background-image: url('../images/.TsyatuPAKE5176.jpg');
+		background-image: url('../images/TsyatuPAKE5176.jpg');
 	}
 	#section2::before {
-		background-image: url('../images/section2_portrait.jpg');
+		background-image: url('../images/TsyatuPAKE5063.jpg');
 	}
 	#section3::before {
-		background-image: url('../images/section3_portrait.jpg');
+		background-image: url('../images/wedding-010A2448.jpg');
 	}
 
 	}/*追加指定ここまで*/
